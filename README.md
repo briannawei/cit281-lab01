@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Lab 1
 
-You can use the [editor on GitHub](https://github.com/briannawei/cit281-lab01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img width="815" alt="lab-01-folders" src="https://user-images.githubusercontent.com/84175061/120881183-5194e700-c584-11eb-8088-a458eb81d2e9.png">
+<img width="581" alt="p1-folders" src="https://user-images.githubusercontent.com/84175061/120881184-52c61400-c584-11eb-9aee-6045339aee92.png">
+<img width="593" alt="p1-ping" src="https://user-images.githubusercontent.com/84175061/120881185-535eaa80-c584-11eb-9dd8-849f014dac64.png">
+<img width="587" alt="p1-tree" src="https://user-images.githubusercontent.com/84175061/120881186-53f74100-c584-11eb-979b-cde5e852cd3b.png">
+<img width="1101" alt="lab-01-node" src="https://user-images.githubusercontent.com/84175061/120881188-53f74100-c584-11eb-96a7-b9e02d018f3c.png">
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briannawei/cit281-lab01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
